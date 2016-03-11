@@ -7,6 +7,8 @@ import java.util.concurrent.LinkedBlockingDeque;
 
 /**
  * Created by kbyyd on 2016/3/11.
+ * @author gaoyx
+ * @version 1.0
  */
 public class grep {
     public static void main(String[] args) {
